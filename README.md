@@ -1,2 +1,1 @@
-# UITest
-# UnitTest
+# 单元测试和UI测试
